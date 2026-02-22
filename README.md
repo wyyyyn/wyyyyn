@@ -4,11 +4,11 @@
 
 ## About Me
 
-I'm currently working as an AI Product Engineer at Starways, building AI-powered tools and products. I hold an MSc in Social Anthropology from the University of Oxford, which gives me a human-centred lens on technology. My career has taken me through strategy consulting at BCG and AI product management at Deloitte before moving into hands-on engineering.
+I'm currently working as an AI Product Engineer at an AI startup, building AI-powered tools and products. I hold an MSc in Social Anthropology from the University of Oxford, which gives me a human-centred lens on technology. My career has taken me through strategy consulting at BCG and AI product management at Deloitte before moving into hands-on engineering.
 
 ## Experience
 
-- **AI Product Engineer** @ Starways — Building AI-driven products and full-stack applications
+- **AI Product Engineer** @ AI Startup — Building AI-driven products and full-stack applications
 - **AI Product Manager** @ Deloitte — Led AI/ML product initiatives and cross-functional delivery
 - **Strategy Consultant** @ BCG — Business strategy and digital transformation projects
 
