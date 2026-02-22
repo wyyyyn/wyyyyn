@@ -1,4 +1,4 @@
-# Hi, I'm Yuning (Wynn)
+# Hi, I'm Wynn
 
 **AI Product Engineer** with a background spanning product management, strategy consulting, and philosophy.
 
