@@ -1,10 +1,10 @@
 # Hi, I'm Yuning (Wynn)
 
-**AI Product Engineer** with a background spanning product management, strategy consulting, and anthropology.
+**AI Product Engineer** with a background spanning product management, strategy consulting, and philosophy.
 
 ## About Me
 
-I'm currently working as an AI Product Engineer at an AI startup, building AI-powered tools and products. I hold an MSc in Social Anthropology from the University of Oxford, which gives me a human-centred lens on technology. My career has taken me through strategy consulting at BCG and AI product management at Deloitte before moving into hands-on engineering.
+I'm currently working as an AI Product Engineer at an AI startup, building AI-powered tools and products. I hold an MSc from the University of Oxford with a focus on philosophy, which gives me a human-centred lens on technology. My career has taken me through strategy consulting at BCG and AI product management at Deloitte before moving into hands-on engineering.
 
 ## Experience
 
@@ -23,7 +23,7 @@ I'm currently working as an AI Product Engineer at an AI startup, building AI-po
 
 ## Education
 
-- **MSc Social Anthropology** — University of Oxford
+- **MSc** — University of Oxford
 - **BA** — University of Birmingham
 - **Exchange** — Fudan University
 
