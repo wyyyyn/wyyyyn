@@ -24,8 +24,8 @@ I'm currently working as an AI Product Engineer at an AI startup, building AI-po
 ## Education
 
 - **MSc** — University of Oxford
-- **BA** — University of Birmingham
-- **Exchange** — Fudan University
+- **BA** — Fudan University
+- **Exchange** — University of Birmingham
 
 ## Contact
 
