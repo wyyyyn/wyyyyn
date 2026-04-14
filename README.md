@@ -1,6 +1,6 @@
 # Hi, I'm Wynn
 
-**Incoming AI Product Manager @ ByteDance** · Oxford MPhil · Builder at the intersection of AI and product.
+**Builder, philosopher, occasional optimist.** Incoming AI PM @ ByteDance.
 
 *I build things to understand them. I want technology to be beautiful, and to stay warm.*
 
