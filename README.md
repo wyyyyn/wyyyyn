@@ -1,6 +1,6 @@
 # Hi, I'm Wynn
 
-**Builder, philosopher, occasional optimist.** Incoming AI PM @ ByteDance.
+**Builder, philosopher, occasional optimist.** Once wrote about contemporary art and the Church of England. Now I build AI products — and still write, about what technology does to us.
 
 *I build things to understand them. I want technology to be beautiful, and to stay warm.*
 
@@ -10,10 +10,10 @@ Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer S
 
 ## Experience
 
-- **AI Product Manager** @ ByteDance — Incoming
-- **AI Product Engineer** @ AI Startup — Built AI-driven products and full-stack applications
-- **AI Product Manager** @ Deloitte — Led AI/ML product initiatives and cross-functional delivery
-- **Strategy Consultant** @ BCG — Business strategy and digital transformation projects
+- **AI Product Manager** @ ByteDance — Incoming. Working on multi-agent collaboration and orchestration
+- **AI Product Engineer** @ AI Startup — 0-to-1 product design and agent architecture for an AI-native platform
+- **AI Product Manager** @ Deloitte — Worked on AI-powered enterprise products, figuring out where AI fits into existing workflows
+- **Strategy Consultant** @ BCG — Advised on LLM and foundation model strategy, helping clients navigate the emerging AI landscape
 
 ## Projects
 
