@@ -1,14 +1,17 @@
 # Hi, I'm Wynn
 
-**AI Product Engineer** with a background spanning product management, strategy consulting, and philosophy.
+**Incoming AI Product Manager @ ByteDance** · Oxford MSc · Builder at the intersection of AI and product.
+
+*I build things to understand them. I want technology to be beautiful, and to stay warm.*
 
 ## About Me
 
-I'm currently working as an AI Product Engineer at an AI startup, building AI-powered tools and products. I hold an MSc from the University of Oxford with a focus on philosophy, which gives me a human-centred lens on technology. My career has taken me through strategy consulting at BCG and AI product management at Deloitte before moving into hands-on engineering.
+Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer Science at Georgia Tech. Trained in philosophy at Oxford and Fudan — and I carry that with me everywhere I go.
 
 ## Experience
 
-- **AI Product Engineer** @ AI Startup — Building AI-driven products and full-stack applications
+- **AI Product Manager** @ ByteDance — Incoming
+- **AI Product Engineer** @ AI Startup — Built AI-driven products and full-stack applications
 - **AI Product Manager** @ Deloitte — Led AI/ML product initiatives and cross-functional delivery
 - **Strategy Consultant** @ BCG — Business strategy and digital transformation projects
 
@@ -23,8 +26,9 @@ I'm currently working as an AI Product Engineer at an AI startup, building AI-po
 
 ## Education
 
+- **MS in Computer Science** — Georgia Institute of Technology (current)
 - **MSc** — University of Oxford
-- **BA** — Fudan University
+- **BA in Philosophy** — Fudan University
 - **Exchange** — University of Birmingham
 
 ## Contact
