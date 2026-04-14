@@ -1,6 +1,6 @@
 # Hi, I'm Wynn
 
-**Incoming AI Product Manager @ ByteDance** · Oxford MSc · Builder at the intersection of AI and product.
+**Incoming AI Product Manager @ ByteDance** · Oxford MPhil · Builder at the intersection of AI and product.
 
 *I build things to understand them. I want technology to be beautiful, and to stay warm.*
 
@@ -27,7 +27,7 @@ Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer S
 ## Education
 
 - **MS in Computer Science** — Georgia Institute of Technology (current)
-- **MSc** — University of Oxford
+- **MPhil** — University of Oxford
 - **BA in Philosophy** — Fudan University
 - **Exchange** — University of Birmingham
 
