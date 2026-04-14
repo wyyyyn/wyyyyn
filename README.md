@@ -2,7 +2,7 @@
 
 **Builder. Long-term thinker. Lifelong learner. Always chasing the steepest curve.** Trained as a journalist, philosopher, and anthropologist — spent years doing fieldwork on contemporary art and the Church of England. Now I build AI products, and still write, about what technology does to us.
 
-*"Attention is the rarest and purest form of generosity.". I build things as a way of paying attention — to people, to problems, to what technology could be if we cared enough.*
+*"Attention is the rarest and purest form of generosity." I build things as a way of paying attention — to people, to problems, to what technology could be if we cared enough.*
 
 ## About Me
 
