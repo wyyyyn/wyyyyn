@@ -1,12 +1,12 @@
 # Hi, I'm Wynn
 
-**Builder, philosopher, occasional optimist.** Once wrote about contemporary art and the Church of England. Now I build AI products — and still write, about what technology does to us.
+**Builder. Long-term thinker. Lifelong learner. Always chasing the steepest curve.** Trained as a journalist, philosopher, and anthropologist — spent years doing fieldwork on contemporary art and the Church of England. Now I build AI products, and still write, about what technology does to us.
 
 *I build things to understand them. I want technology to be beautiful, and to stay warm.*
 
 ## About Me
 
-Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer Science at Georgia Tech. Trained in philosophy at Oxford and Fudan — and I carry that with me everywhere I go.
+Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer Science at Georgia Tech. Background in journalism, philosophy (Fudan), and anthropology (Oxford) — years of ethnographic fieldwork before turning to tech. I carry that with me everywhere I go.
 
 ## Experience
 
