@@ -6,7 +6,9 @@
 
 ## About Me
 
-Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer Science at Georgia Tech. Background in journalism, philosophy (Fudan), and anthropology (Oxford) — years of ethnographic fieldwork before turning to tech. I carry that with me everywhere I go. In an age where skills and credentials depreciate fast, I believe curiosity and the will to act never do. I want to see how far a humanities mind can go in tech.
+Incoming AI Product Manager at ByteDance. Currently pursuing an MS in Computer Science at Georgia Tech. Background in journalism, philosophy (Fudan), and anthropology (Oxford) — years of ethnographic fieldwork before turning to tech. I carry all of that with me.
+
+Skills and credentials depreciate fast. Curiosity and the will to act don't. I want to see how far a humanities mind can go in tech.
 
 ## Experience
 
